@@ -1,4 +1,4 @@
-package Intro.Math;
+package Math;
 
 //Program to find the count of digits in any given number
 

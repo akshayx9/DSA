@@ -7,7 +7,7 @@ public class Factorial {
     public int Fact1(int n) {
         int res=1;
         for(int i=2;i<=n;i++){
-            res=res*i;
+            res=res*i;//here we multiple each number to it's next with every iteration. Ex: 1*2*3*4*...*n
         }
         return res;
     }

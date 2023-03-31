@@ -13,7 +13,7 @@ public class CheckPrime{
         if(n%2==0 || n%3==0){
             return false;
         }
-        for(int i=5; i*i<=n; i=i+6){
+        for(int i=5; i*i<=n; i=i+6){ //we use i*i here because if a number n has no divisors until root of n, then it wouldn't have any divisors after it either.
                 if(n%i==0 || n%(i+2)==0){
                     return false;
                 }

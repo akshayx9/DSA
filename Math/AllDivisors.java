@@ -5,12 +5,12 @@ package Math;
 public class AllDivisors {
     void printDivisors(int n){
         int i;
-        for(i=1; i*i<n; i++){
+        for(i=1; i*i<n; i++){//This prints all the divisors of n from 1 to root of n
             if(n%i==0){
                 System.out.println(i);
             }
         }
-        for(; i>=1; i--){
+        for(; i>=1; i--){//This prints all the divisors of n from n to root of n
             if(n%i==0){
                 System.out.println(n/i);
             }

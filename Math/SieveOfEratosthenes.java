@@ -10,12 +10,12 @@ public class SieveOfEratosthenes {
             return;
         }
         boolean isPrime[]=new boolean[n+1];
-        Arrays.fill(isPrime, true);
+        Arrays.fill(isPrime, true);//Here we create a boolean array and fill all the values as true
         for(int i=2; i<=n; i++){
             if(isPrime[i]){
-                System.out.println(i);
+                System.out.println(i);//If the value of the specified array index [i] is true then we print it as true for a prime number.
             }
-            for(int j=i*i; j<=n; j=j+i){
+            for(int j=i*i; j<=n; j=j+i){//When i is prime, we mark all multiples of i as false so as to mark them as not a prime number.
                 isPrime[j]=false;
             }
         }

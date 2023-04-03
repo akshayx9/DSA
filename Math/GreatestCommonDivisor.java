@@ -12,6 +12,6 @@ public class GreatestCommonDivisor {
     }
     public static void main(String[] args) {
         GreatestCommonDivisor g=new GreatestCommonDivisor();
-        System.out.println(g.GCD(189, 1568));
+        System.out.println(g.GCD(2, 1));
     }
 }

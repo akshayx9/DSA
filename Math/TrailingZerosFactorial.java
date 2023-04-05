@@ -12,6 +12,6 @@ public class TrailingZerosFactorial {
     }
     public static void main(String[] args) {
         TrailingZerosFactorial t=new TrailingZerosFactorial();
-        System.out.println(t.CountTrailingZeros(100));
+        System.out.println(t.CountTrailingZeros(40));
     }
 }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class PrimeGenerator {
+public class PrimeGenerator1 {
     int N=1000000;
     boolean[] sieve=new boolean[N+1];
     public void createSieve() {
@@ -31,7 +31,7 @@ public class PrimeGenerator {
         return ds;
     }
     public static void main(String[] args) {
-        PrimeGenerator pg=new PrimeGenerator();
+        PrimeGenerator1 pg=new PrimeGenerator1();
         pg.createSieve();
         int t;//t is the number of testcases
         Scanner s=new Scanner(System.in);

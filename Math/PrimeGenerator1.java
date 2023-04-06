@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class PrimeGenerator1 {
-    int N=1000000;
+    int N=100000000;
     boolean[] sieve=new boolean[N+1];
     public void createSieve() {
         Arrays.fill(sieve, true);

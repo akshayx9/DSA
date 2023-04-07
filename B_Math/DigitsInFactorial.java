@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class DigitsInFactorial {
     public static double e=2.71828182845904523536;

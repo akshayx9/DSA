@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class ArmstrongNumbers {
     public String armstrongNumber(int n){

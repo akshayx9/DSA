@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find all divisors of a given number in sorted order.
 

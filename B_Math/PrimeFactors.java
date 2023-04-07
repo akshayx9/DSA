@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find Prime Factors of any given number
 

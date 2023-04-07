@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find the remainder when a large number given in the form of integer is divided by 11.
 

@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class CelsiusToFahrenheit {
     public void CtoF(int C){

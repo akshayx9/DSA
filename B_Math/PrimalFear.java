@@ -1,9 +1,9 @@
-package Math;
+package B_Math;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class PrimalFear {
     static boolean[] isPrime;
     static int N=(int) 1e6+10;//1000010
     static int[] fear;

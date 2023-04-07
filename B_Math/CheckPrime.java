@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
  
 //Program to find if the given number is prime or not
 

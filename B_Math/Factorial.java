@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find factorial of a number
 

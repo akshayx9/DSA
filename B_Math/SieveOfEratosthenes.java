@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find all the prime numbers between 0 to given number using the concept of Sieve of Eratosthenes
 

@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find the Greatest Common Divisor for any two given numbers
 public class GreatestCommonDivisor {

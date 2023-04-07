@@ -1,4 +1,4 @@
-package Intro;
+package A_Intro;
 
 public class SumOfnNumbers{
     public static void main(String[] args) {

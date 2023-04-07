@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to find the count of digits in any given number
 

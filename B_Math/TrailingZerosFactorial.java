@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to count trailing zeros in a Factorial of a given number
 

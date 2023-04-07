@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class ModularMultiplicativeInverse {
     static int modInverse(int A, int M)

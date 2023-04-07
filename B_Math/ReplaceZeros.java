@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to replace all zeros in an integer with '5'.
 

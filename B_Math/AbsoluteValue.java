@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class AbsoluteValue {
     public int absolute(int i){

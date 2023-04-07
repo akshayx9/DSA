@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 //Program to compute x(given number) to the power of n(given number)
 

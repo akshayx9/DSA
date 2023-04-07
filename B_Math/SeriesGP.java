@@ -1,4 +1,4 @@
-package Math;
+package B_Math;
 
 public class SeriesGP {
     Long power(int r, int n, int mod){
